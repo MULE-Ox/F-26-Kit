@@ -16,7 +16,7 @@ After installation, open **GitHub Desktop** and either skip the login step or, o
 Next, select **Clone a Repository from the Internet...**. In the window that opens, go to the **URL** tab and copy-paste this address into the **Repository URL** field:
 
 ```
-https://github.com/MULE-Ox/S25-Kit.git
+https://github.com/MULE-Ox/S26-Kit.git
 ```
 
 The **Local Path** field should default to something like **Documents/GitHub/S25-Kit** - leave this as-is and click **Clone**.
