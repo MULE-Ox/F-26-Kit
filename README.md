@@ -16,16 +16,16 @@ After installation, open **GitHub Desktop** and either skip the login step or, o
 Next, select **Clone a Repository from the Internet...**. In the window that opens, go to the **URL** tab and copy-paste this address into the **Repository URL** field:
 
 ```
-https://github.com/MULE-Ox/S26-Kit.git
+https://github.com/MULE-Ox/F-26-Kit.git
 ```
 
-The **Local Path** field should default to something like **Documents/GitHub/S25-Kit** - leave this as-is and click **Clone**.
+The **Local Path** field should default to something like **Documents/GitHub/F-25-Kit** - leave this as-is and click **Clone**.
 
-This will place a collection of files in a folder called **S25-Kit** in **Documents/GitHub**. Make sure you can find it! You only need to perform this cloning procedure once at the beginning of the semester.
+This will place a collection of files in a folder called **F-26-Kit** in **Documents/GitHub**. Make sure you can find it! You only need to perform this cloning procedure once at the beginning of the semester.
 
 ### Updating Files With GitHub Desktop
 
-At the beginning of _every_ class meeting, open **GitHub Desktop** and make sure that it says **S25-Kit** under **Current Repository** in the upper-left corner.
+At the beginning of _every_ class meeting, open **GitHub Desktop** and make sure that it says **F-25-Kit** under **Current Repository** in the upper-left corner.
 
 Just below that, look at the column that says **Changes**. If there are any changed files, go to the **Branch** menu in the menu bar and select **Discard All Changes...**.
 
@@ -33,7 +33,7 @@ Once it says "0 changed files" in the **Changes** column, look for a button in t
 
 ### Create a "Safe" Folder
 
-Occasionally, we will need individual MULE members to be able to create and change files that exist only in their own **S25-Kit** folder. To do so, simply create a new folder named **storage** inside of your **S25-Kit** folder. **GitHub Desktop** knows to ignore the contents of this folder when discarding files and syncing updates.
+Occasionally, we will need individual MULE members to be able to create and change files that exist only in their own **F-25-Kit** folder. To do so, simply create a new folder named **storage** inside of your **F-25-Kit** folder. **GitHub Desktop** knows to ignore the contents of this folder when discarding files and syncing updates.
 
 ## Max
 
@@ -45,7 +45,7 @@ You do not need a license to run files in **Max** for MULE. If you already have 
 
 ### File Preferences
 
-After installing **Max**, go to **Options > File Preferences...** in the menu bar. In the window that opens, click the **+** icon in the lower-left corner. Click the **choose** button in the new row that appears, then find the **S25-Kit** folder that you cloned from GitHub and click **Open**. Make sure that **Subfolders** is checked for that row.
+After installing **Max**, go to **Options > File Preferences...** in the menu bar. In the window that opens, click the **+** icon in the lower-left corner. Click the **choose** button in the new row that appears, then find the **F-25-Kit** folder that you cloned from GitHub and click **Open**. Make sure that **Subfolders** is checked for that row.
 
 <img src="images/max-file-preferences.png" alt="Max File Preferences" width="500">
 
