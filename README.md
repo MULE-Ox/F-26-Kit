@@ -1,7 +1,7 @@
 # MULE F-26-Kit
 Materials for MULE - Fall - 2026
 
-This repository includes configuration instructions and files needed to perform Spring 2025 concert selections. It will be updated with new content throughout the semester as needed.
+This repository includes configuration instructions and files needed to perform Fall 2026 concert selections. It will be updated with new content throughout the semester as needed.
 
 ## GitHub Desktop
 
