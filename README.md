@@ -19,13 +19,13 @@ Next, select **Clone a Repository from the Internet...**. In the window that ope
 https://github.com/MULE-Ox/F-26-Kit.git
 ```
 
-The **Local Path** field should default to something like **Documents/GitHub/F-25-Kit** - leave this as-is and click **Clone**.
+The **Local Path** field should default to something like **Documents/GitHub/F-26-Kit** - leave this as-is and click **Clone**.
 
 This will place a collection of files in a folder called **F-26-Kit** in **Documents/GitHub**. Make sure you can find it! You only need to perform this cloning procedure once at the beginning of the semester.
 
 ### Updating Files With GitHub Desktop
 
-At the beginning of _every_ class meeting, open **GitHub Desktop** and make sure that it says **F-25-Kit** under **Current Repository** in the upper-left corner.
+At the beginning of _every_ class meeting, open **GitHub Desktop** and make sure that it says **F-26-Kit** under **Current Repository** in the upper-left corner.
 
 Just below that, look at the column that says **Changes**. If there are any changed files, go to the **Branch** menu in the menu bar and select **Discard All Changes...**.
 
@@ -33,7 +33,7 @@ Once it says "0 changed files" in the **Changes** column, look for a button in t
 
 ### Create a "Safe" Folder
 
-Occasionally, we will need individual MULE members to be able to create and change files that exist only in their own **F-25-Kit** folder. To do so, simply create a new folder named **storage** inside of your **F-25-Kit** folder. **GitHub Desktop** knows to ignore the contents of this folder when discarding files and syncing updates.
+Occasionally, we will need individual MULE members to be able to create and change files that exist only in their own **F-26-Kit** folder. To do so, simply create a new folder named **storage** inside of your **F-26-Kit** folder. **GitHub Desktop** knows to ignore the contents of this folder when discarding files and syncing updates.
 
 ## Max
 
