@@ -21,24 +21,12 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 756.0, 95.584414482116699, 424.0, 179.0 ],
+					"patching_rect" : [ 628.0, 329.0, 424.0, 179.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 5,
 					"presentation_rect" : [ 315.0, 34.0, 424.0, 179.0 ],
 					"text" : "This is the Cloud Tester patch. We will use this to test audio output, network sync, and interaction. Dont forget to turn power on!",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-33",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 962.375, 25.0, 58.0, 22.0 ],
-					"text" : "loadbang"
 				}
 
 			}
@@ -338,18 +326,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-13",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 1048.051938056945801, 115.584414482116699, 59.0, 22.0 ],
-					"text" : "port 7800"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-53",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -370,7 +346,7 @@
 					"patching_rect" : [ 1023.376613616943359, 224.675322532653809, 479.0, 62.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 182.0, 404.0, 479.0, 62.0 ],
-					"text" : "0:29",
+					"text" : "0:00",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
@@ -416,13 +392,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-10", 0 ],
 					"source" : [ "obj-12", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-29", 0 ],
-					"source" : [ "obj-13", 0 ]
 				}
 
 			}
@@ -570,13 +539,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-13", 0 ],
-					"source" : [ "obj-33", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-15", 0 ],
 					"source" : [ "obj-34", 0 ]
 				}
@@ -618,7 +580,7 @@
 
 			}
  ],
-		"originid" : "pat-302",
+		"originid" : "pat-32",
 		"parameters" : 		{
 			"obj-16" : [ "live.gain~", "live.gain~", 0 ],
 			"parameterbanks" : 			{
