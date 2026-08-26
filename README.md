@@ -45,19 +45,17 @@ You do not need a license to run files in **Max** for MULE. If you already have 
 
 ### File Preferences
 
-After installing **Max**, go to **Options > File Preferences...** in the menu bar. In the window that opens, click the **+** icon in the lower-left corner. Click the **choose** button in the new row that appears, then find the **F-25-Kit** folder that you cloned from GitHub and click **Open**. Make sure that **Subfolders** is checked for that row.
+After installing **Max**, go to **Options > File Preferences...** in the menu bar. In the window that opens, click the **+** icon in the lower-left corner. Click the **choose** button in the new row that appears, then find the **F-26-Kit** folder that you cloned from GitHub and click **Open**. Make sure that **Subfolders** is checked for that row.
 
-<img src="images/max-file-preferences.png" alt="Max File Preferences" width="500">
 
 If you have been in MULE in the past, please remove all folders from previous semesters in **File Preferences** using the **-** button. This will help prevent conflicts between files.
 
-### Link
+### Link - Wait to do this!
 
 **Max** includes a **Package Manager** to install additional packages that add functionality to the base application. One that we use frequently in MULE to synchronize beats among players is **Link**.
 
 To install **Link**, go to **File > Show Package Manager**, then search for **Link** by Cycling '74 and click the **Install** button. You do not need to launch **Link** after installing - it will automatically be available where needed in the **Max** patches that we build.
 
-<img src="images/link-max-package-manager.png" alt="Link in Max Package Manager" width="500">
 
 ## Other Software
 
@@ -92,7 +90,6 @@ https://www.arturia.com/products/audio/minifuse/resources#soft
 
 In use, the front panel of your **MiniFuse** should look something like the image below, with the **Instrument**, **48 V**, and **DIRECT MONITOR** buttons off and the **MONITOR** level at maximum.
 
-<img src="images/minifuse-settings.jpeg" alt="MiniFuse Settings" width="500">
 
 ### Speakers
 
@@ -108,13 +105,7 @@ Additionally, the **PHANTOM POWER** and **INSTRUMENT** settings on the **Mackie*
 
 These settings were chosen by roughly calibrating the volume of a test signal. We will revisit these settings if needed throughout the semester. If you ever find that your audio is too loud, use the **MONITOR** knob on the **MiniFuse** to reduce volume, rather than the speaker settings.
 
-<img src="images/roland-settings.jpeg" alt="Roland Settings" width="500">
-
-<img src="images/mackie-settings.jpeg" alt="Mackie Settings" width="300">
-
 ## Room Configuration
-
-I have worked... _very hard_ over the last few semesters to configure CPA152 to the best of my ability to meet the needs of both MULE and Souers Recital Hall. It's not a perfect space, but it is _ours_.
 
 There are three room configuration items that I ask you to note and help maintain throughout the semester:
 
@@ -122,4 +113,3 @@ There are three room configuration items that I ask you to note and help maintai
 - If you are using a **Mackie** speaker along the left (south) wall, the audio cables should be unplugged from the speaker inputs and loosely hung on the X-stand _at the end of every class_. This is to ensure a clear path to the back of the room.
 - If you are using one of the two stations at the back of the room near the recording desk, there isn't quite enough room to leave the speakers out all the time. You will need to move your speakers a few feet away from your stand and plug in their power cables at the start of every class. A power strip is stored at the bottom of the mixer rack for this purpose. Please make sure to return both the power strip and speakers to their stored locations _at the end of every class_.
 
-<img src="images/cpa152.jpeg" alt="CPA152" width="500">
